@@ -26,13 +26,13 @@ cd Pakistan_Law_site
 '''
 
 ### Create a virtual environment (optional but recommended):
-'''bash
+'''
 python -m venv myenv
 myenv\Scripts\activate  # For Windows
 '''
 
 ### Install the required packages:
-'''bash
+'''
 pip install -r requirements.txt
 '''
 
@@ -41,7 +41,7 @@ Make sure the required dependencies are installed.
 
 
 ### Run the Python script to start scraping:
-'''bash
+'''
 python script.py
 The scraped data will be saved as separate JSON files in the specified directory.
 Example Output 📂
